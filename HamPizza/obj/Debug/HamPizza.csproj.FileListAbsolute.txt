@@ -1,0 +1,12 @@
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\HamPizza\HamPizza\obj\Debug\HamPizza.csproj.AssemblyReference.cache
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\HamPizza\HamPizza\obj\Debug\HamPizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\HamPizza\HamPizza\obj\Debug\HamPizza.MainScreen.resources
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\HamPizza\HamPizza\obj\Debug\HamPizza.Properties.Resources.resources
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\HamPizza\HamPizza\obj\Debug\HamPizza.SeeOrders.resources
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\HamPizza\HamPizza\obj\Debug\HamPizza.csproj.GenerateResource.cache
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\HamPizza\HamPizza\obj\Debug\HamPizza.csproj.CoreCompileInputs.cache
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\HamPizza\HamPizza\bin\Debug\HamPizza.exe.config
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\HamPizza\HamPizza\bin\Debug\HamPizza.exe
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\HamPizza\HamPizza\bin\Debug\HamPizza.pdb
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\HamPizza\HamPizza\obj\Debug\HamPizza.exe
+C:\Users\hyewo\OneDrive\바탕 화면\centennialcollege\docs\SEMESTER2\COMP123\assignments\final\github\HamPizza\HamPizza\obj\Debug\HamPizza.pdb
